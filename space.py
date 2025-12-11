@@ -3,12 +3,12 @@
 #Cody is an interplanetary space boxer who is trying to win championship belts for various weight categories on other planets within the solar system.
 # This is a program that helps Cody keep track of their target weight.
 # Here is the table of conversions.
-# 1 =	Venus 	0.91
-# 2 =	Mars 	0.38
-# 3 =	Jupiter 	2.34
-# 4 =	Saturn 	1.06
-# 5 =	Uranus 	0.92
-# 6 =	Neptune 	1.19
+# 1 =	Venus   0.91
+# 2 =	Mars    0.38
+# 3 =	Jupiter 2.34
+# 4 =	Saturn  1.06
+# 5 =	Uranus  0.92
+# 6 =	Neptune 1.19
 
 print("I have information for the following planets:\n")
 
