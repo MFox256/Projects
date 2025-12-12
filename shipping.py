@@ -1,4 +1,4 @@
-#For this project I had to build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.
+#For this project I had to build a program that will take the weight of a package and determine the cheapest way to ship that package using a service called "Sal’s Shippers".
 
 #Sal’s Shippers has several different options for a customer to ship their package:
 
