@@ -32,7 +32,7 @@ elif weight <= 10:
   ground_cost = (4 * weight) + 20 
 else:
   ground_cost = (4.75 * weight) + 20
-ground_premium = ground_cost + 125  
+ground_premium = 125  
 
 #Drone shipping
 if weight <= 2: 
